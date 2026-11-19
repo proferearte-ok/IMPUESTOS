@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Impuestos",
+  "description": "Gestión personal de vencimientos y pagos de impuestos y servicios recurrentes con estética Boro (Quiet Confidence).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
